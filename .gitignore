@@ -1,2 +1,17 @@
 .vs/-Real-Time-Automation-Project/CopilotIndices/17.13.441.19478/SemanticSymbols.db-shm
 .vs/-Real-Time-Automation-Project/CopilotIndices/17.13.441.19478/SemanticSymbols.db-shm
+# Ignora arquivos da pasta do Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+
+# Ignora arquivos compilados
+*.exe
+*.dll
+*.obj
+
+# Ignora pastas de build
+bin/
+obj/
