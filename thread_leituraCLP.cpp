@@ -1,3 +1,6 @@
+//NÃO SEI INCLUIR A BIBLIOTECA DO PTHREADS :(
+
+
 #include "CLPThread.h"
 
 CLPThread::CLPThread() : m_running(false) {

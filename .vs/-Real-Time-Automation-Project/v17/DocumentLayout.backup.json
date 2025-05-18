@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\thread_leituraCLP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:thread_leituraCLP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\CLPThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CLPThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +47,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLPThread.h",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\CLPThread.h",
+              "RelativeDocumentMoniker": "CLPThread.h",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\CLPThread.h",
+              "RelativeToolTip": "CLPThread.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T22:32:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thread_leituraCLP.cpp",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\thread_leituraCLP.cpp",
+              "RelativeDocumentMoniker": "thread_leituraCLP.cpp",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\-Real-Time-Automation-Project\\thread_leituraCLP.cpp",
+              "RelativeToolTip": "thread_leituraCLP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T22:31:26.769Z",
+              "EditorCaption": ""
             }
           ]
         }
